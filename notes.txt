@@ -1,0 +1,9 @@
+
+https://github.com/JuliaLang/Example.jl
+https://julialang.github.io/Pkg.jl/dev/creating-packages/#Adding-tests-to-the-package-1
+
+Currently failing with
+"    Cloning default registries into `~/.julia`\n",
+
+The dependencies need to go inside the image as there is
+no network inside the sandbox container.

@@ -1,0 +1,14 @@
+{
+  "display_name": "Julia, test",
+  "image_name": "cyberdojofoundation/julia_test",
+  "visible_filenames":
+  [
+    "Project.toml",
+    "test/runtests.jl",
+    "src/Hiker.jl",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension": [ ".jl" ],
+  "max_seconds": 10,
+  "tab_size": 4
+}
