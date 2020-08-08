@@ -1,11 +1,10 @@
 {
   "display_name": "Julia, test",
-  "image_name": "cyberdojofoundation/julia_test",
+  "image_name": "cyberdojofoundation/julia_test:838b464",
   "visible_filenames":
   [
-    "Project.toml",
-    "test/runtests.jl",
-    "src/Hiker.jl",
+    "runtests.jl",
+    "Hiker.jl",
     "cyber-dojo.sh"
   ],
   "filename_extension": [ ".jl" ],
