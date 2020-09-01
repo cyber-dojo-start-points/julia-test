@@ -1,6 +1,6 @@
 {
   "display_name": "Julia, test",
-  "image_name": "cyberdojofoundation/julia_test:838b464",
+  "image_name": "cyberdojofoundation/julia_test:7b334d6",
   "visible_filenames":
   [
     "runtests.jl",
