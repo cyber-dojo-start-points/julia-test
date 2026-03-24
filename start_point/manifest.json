@@ -1,12 +1,13 @@
 {
-  "display_name": "Julia, test",
-  "image_name": "cyberdojofoundation/julia_test:81ccc5d",
+  "display_name": "Julia 1.12.5, test",
+  "image_name": "ghcr.io/cyber-dojo-languages/julia_test:a6c5c63",
   "visible_filenames":
   [
     "runtests.jl",
     "Hiker.jl",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [ ".jl" ],
   "max_seconds": 10,
   "tab_size": 4
