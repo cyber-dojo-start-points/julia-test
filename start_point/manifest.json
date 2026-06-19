@@ -1,5 +1,13 @@
 {
   "display_name": "Julia 1.12.5, test",
+  "language": [
+    "Julia",
+    "1.12.5"
+  ],
+  "test_framework": [
+    "test",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/julia_test:a6c5c63",
   "visible_filenames":
   [
