@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^Hiker: Test Failed at .*/runtests\\.jl:[0-9]+$": 1,
+    "^Hiker: Error During Test at .*/runtests\\.jl:[0-9]+$": 1,
+    "^ +BoundsError: attempt to access Int64 at index \\[3\\]$": 1,
+    "^Test Summary: \\| +Fail +Error +Total +Time$": 1,
+    "^Hiker +\\| +1 +1 +2 +[0-9.]+s$": 1,
+    "^ERROR: LoadError: Some tests did not pass: 0 passed, 1 failed, 1 errored, 0 broken\\.$": 1,
+    "^All tests passed$": 0
+  }
+}

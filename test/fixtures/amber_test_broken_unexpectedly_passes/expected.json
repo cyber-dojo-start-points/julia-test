@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^Error During Test at .*/runtests\\.jl:[0-9]+$": 1,
+    "^ +Unexpected Pass$": 1,
+    "^ +Got correct result, please change to @test if no longer broken\\.$": 1,
+    "^ERROR: LoadError: There was an error during testing$": 1,
+    "Test Failed at": 0,
+    "^All tests passed$": 0
+  }
+}

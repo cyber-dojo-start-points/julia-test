@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^Hiker +\\| +2 +2 +[0-9.]+s$": 1,
+    "^answer size: Test Failed at .*/test_answer_size\\.jl:[0-9]+$": 1,
+    "^ +Evaluated: 42 > 1000$": 1,
+    "^answer size +\\| +1 +1 +2 +[0-9.]+s$": 1,
+    "^ERROR: LoadError: Some tests did not pass: 1 passed, 1 failed, 0 errored, 0 broken\\.$": 1,
+    "^All tests passed$": 0
+  }
+}

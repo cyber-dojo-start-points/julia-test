@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 12,
+  "match_counts": {
+    "^Test Summary: \\| +Pass +Total +Time$": 2,
+    "^Hiker +\\| +1 +1 +[0-9.]+s$": 1,
+    "^answer size +\\| +1 +1 +[0-9.]+s$": 1,
+    "^All tests passed$": 1,
+    "Test Failed at": 0
+  },
+  "truncated": false
+}

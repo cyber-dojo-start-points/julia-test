@@ -1,0 +1,11 @@
+{
+  "matches": [ "^debug: i is 1, total is 1$" ],
+  "match_counts": {
+    "^debug: i is 0, total is 0$": 1,
+    "ERROR: LoadError: There was an error during testing$": 1,
+    "^in expression starting at .*/runtests\\.jl:[0-9]+$": 1,
+    "Test Failed at": 0,
+    "^All tests passed$": 0
+  },
+  "truncated": true
+}

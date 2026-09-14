@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 10,
+  "match_counts": {
+    "^All tests passed$": 1,
+    "answer size": 0,
+    "Test Failed at": 0
+  },
+  "truncated": false
+}

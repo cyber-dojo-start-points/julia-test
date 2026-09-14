@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^Hiker: Test Failed at .*/runtests\\.jl:[0-9]+$": 3,
+    "^Test Summary: \\| +Fail +Total +Time$": 1,
+    "^Hiker +\\| +3 +3 +[0-9.]+s$": 1,
+    "^ERROR: LoadError: Some tests did not pass: 0 passed, 3 failed, 0 errored, 0 broken\\.$": 1,
+    "^All tests passed$": 0,
+    "Error During Test": 0
+  }
+}

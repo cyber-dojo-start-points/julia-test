@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Error During Test at .*/runtests\\.jl:[0-9]+$": 1,
+    "^ +UndefVarError: .sevn. not defined in .Main\\.Hiker.$": 1,
+    "^ERROR: LoadError: There was an error during testing$": 1,
+    "Test Failed at": 0,
+    "^All tests passed$": 0
+  }
+}

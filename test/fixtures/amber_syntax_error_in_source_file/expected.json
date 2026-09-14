@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^ERROR: LoadError: ParseError:$": 1,
+    "^# Error @ .*/Hiker\\.jl:[0-9]+:[0-9]+$": 1,
+    "^in expression starting at .*/Hiker\\.jl:[0-9]+$": 1,
+    "^in expression starting at .*/runtests\\.jl:1$": 1,
+    "^All tests passed$": 0,
+    "Test Failed at": 0
+  }
+}

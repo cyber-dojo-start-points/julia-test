@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Test Failed at .*/runtests\\.jl:[0-9]+$": 1,
+    "^ +Expression: Hiker\\.answer\\(\\) == 42$": 1,
+    "^ +Evaluated: 54 == 42$": 1,
+    "^ERROR: LoadError: There was an error during testing$": 1,
+    "^All tests passed$": 0
+  }
+}
