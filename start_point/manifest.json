@@ -1,22 +1,23 @@
 {
-  "display_name": "Julia 1.12.5, test",
+  "display_name": "Julia 1.13.1, test",
   "language": [
     "Julia",
-    "1.12.5"
+    "1.13.1"
   ],
   "test_framework": [
     "test",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/julia_test:a6c5c63",
-  "visible_filenames":
-  [
+  "image_name": "ghcr.io/cyber-dojo-languages/julia_test:d255df9@sha256:11adba830a2930d3a996ca47d2cc8ceea7000ad0a1e823649a2c68f7deb6e39e",
+  "visible_filenames": [
     "runtests.jl",
     "Hiker.jl",
     "cyber-dojo.sh"
   ],
   "rag_lambda": "red_amber_green.rb",
-  "filename_extension": [ ".jl" ],
+  "filename_extension": [
+    ".jl"
+  ],
   "max_seconds": 10,
   "tab_size": 4
 }
