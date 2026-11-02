@@ -1,14 +1,14 @@
 {
-  "display_name": "Julia 1.13.2, test",
+  "display_name": "Julia 1.13.3, test",
   "language": [
     "Julia",
-    "1.13.2"
+    "1.13.3"
   ],
   "test_framework": [
     "test",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/julia_test:c101a9b@sha256:a15e0a2629af21847780b3c9696a9b7a437c85fab1ceaef5a054165f680dc2bb",
+  "image_name": "ghcr.io/cyber-dojo-languages/julia_test:aadf33f@sha256:4a085f28211a3d52a09a1a405ba64672cabf2868306dd66aa530f632fddc12f9",
   "visible_filenames": [
     "runtests.jl",
     "Hiker.jl",
